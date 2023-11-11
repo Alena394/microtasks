@@ -46,5 +46,13 @@
 .btn {
   display: flex;
   justify-content: center;
+  gap:15px;
+  margin-bottom: 30px;
  }
+
+.button {
+  display: flex;
+  justify-content: center;
+  gap:15px;
+}
 
