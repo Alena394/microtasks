@@ -1,3 +1,6 @@
+
+// Method map
+
 type CarsPropsType = {
     topCars: TopCarsType[]
 }
